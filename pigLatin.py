@@ -1,5 +1,3 @@
-#submitted by [Julie Kwok](https://github.com/kwokster10)
-
 # regex library
 import re
 
