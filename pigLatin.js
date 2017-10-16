@@ -27,4 +27,3 @@ function pig_latin_translator(words) {
 
 pig_latin_translator("the quick brown fox"); // return 'ethay ickquay ownbray oxfay'
 
-submitted by [lei-clearsky](https://github.com/lei-clearsky)
